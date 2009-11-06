@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2844
+
+Simple comment is a small script (eight lines) to toggle line comment. It use "s" as trigger key. You can easily add more langages, take a look at the .vim !
